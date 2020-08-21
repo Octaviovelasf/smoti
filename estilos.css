@@ -36,3 +36,9 @@ h3{
     padding: 10px;
     height: 20%!important;
 }
+.borde4{
+    box-shadow: 0 4px 20px rgba(175,185,219,.45);
+    border-radius: 10px;
+    padding: 10px;
+    height: 30%!important;
+}
