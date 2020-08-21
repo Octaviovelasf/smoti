@@ -1,0 +1,38 @@
+.mio{
+    width: -moz-fill-available;
+    width:100%; 
+    height: 100%;
+}
+
+h3{
+    font-size: 30px;
+    line-height: 43px;
+    color: #3758ad;
+}
+
+.texto{
+    font-family: "Calibre",sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #101f64;
+}
+.borde{
+    box-shadow: 0 4px 20px rgba(175,185,219,.45);
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+
+.borde2{
+    box-shadow: 0 4px 20px rgba(175,185,219,.45);
+    border-radius: 10px;
+    padding: 10px;
+}
+.borde3{
+    box-shadow: 0 4px 20px rgba(175,185,219,.45);
+    border-radius: 10px;
+    padding: 10px;
+    height: 20%!important;
+}
